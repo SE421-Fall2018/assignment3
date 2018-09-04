@@ -19,7 +19,7 @@ import com.se421.paths.algorithms.PathEnumerator;
  * potentially exp1Lntial in terms of the traversal, but also in terms of the
  * space to store each path!
  * 
- * @author Ben Holland
+ * @author STUDENT NAME HERE
  */
 public class DFSPathEnumerator extends PathEnumerator {
 	
